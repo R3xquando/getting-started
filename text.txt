@@ -9,3 +9,7 @@ git push orgin main -
 git status
 
 git pull
+
+git branch 
+
+git switch
