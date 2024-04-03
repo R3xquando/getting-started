@@ -1,2 +1,1 @@
-
-print('This is the getting started file')
+print("hi")
